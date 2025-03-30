@@ -2,7 +2,7 @@
 const birthYear = 2003;
 
 // practice - 2
-const brotherSister = "1 brother and 1 sister";
+const brotherSister = 2;
 
 // practice- 3
 const students = 114;
